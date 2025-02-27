@@ -26,15 +26,6 @@ O **WookiPedia** é um projeto escolar desenvolvido para testar e aprimorar os c
 - **CSS3**: Estilização e design responsivo.
 - **JavaScript**: Interatividade e funcionalidades dinâmicas.
 
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-
-- **Email**: seu-email@example.com
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
-
----
-
 ## Como Contribuir
 
 Contribuições são bem-vindas! Se você quiser contribuir para o projeto, siga os passos abaixo:
